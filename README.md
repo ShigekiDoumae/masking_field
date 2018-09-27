@@ -5,16 +5,8 @@ This gem is data masking.
 ## Installation
 
 ```ruby
-gem 'masking_field'
+gem 'masking_field',git: "git@github.com:ShigekiDoumae/masking_field.git"
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install masking_field
 
 ## Usage
 It's plain.
